@@ -1,6 +1,4 @@
-**Quick view:**
-
-![rabbitcharacter](https://github.com/pimfast/My-Art/blob/main/art/rabbitcharacter-rescaled.png) ![kangaroocharacter](https://github.com/pimfast/My-Art/blob/main/art/kangaroocharacter-rescaled.png) ![ratcharacter](https://github.com/pimfast/My-Art/blob/main/art/highlights/rat-rescaled.png)
+![rabbitcharacter](https://github.com/pimfast/My-Art/blob/main/art/highlights/rabbitcharacterwalk-rescaled.gif) ![kangaroocharacter](https://github.com/pimfast/My-Art/blob/main/art/kangaroocharacter-rescaled.png) ![ratcharacter](https://github.com/pimfast/My-Art/blob/main/art/highlights/rat-rescaled.png)
 
 ![jobcharacter](https://github.com/pimfast/My-Art/blob/main/art/highlights/job-rescaled.png)
 ![zombiecharacter](https://github.com/pimfast/My-Art/blob/main/art/highlights/conezombie-rescaled.png)
