@@ -10,8 +10,6 @@
 ![beararmstitle](https://github.com/pimfast/My-Art/blob/main/art/highlights/beararmstitle-rescaled.png)
 ![uiconcept](https://github.com/pimfast/My-Art/blob/main/art/highlights/uiconcept-rescaled.png)
 
-![oldpiece](https://github.com/pimfast/My-Art/blob/main/art/7-8-2019.png)
-
 ![brain-o-meter](https://github.com/pimfast/My-Art/blob/main/art/highlights/brain-o-meter-rescaled.png)
 ![badbrain](https://github.com/pimfast/My-Art/blob/main/art/highlights/brain-rescaled.png)
 ![halloweenbasket](https://github.com/pimfast/My-Art/blob/main/art/highlights/halloweenbasket-rescaled.png)
