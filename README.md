@@ -18,3 +18,5 @@
 ![magicsyringes](https://github.com/pimfast/My-Art/blob/main/art/highlights/magicsyringes-rescaled.png)
 ![thisguy](https://github.com/pimfast/My-Art/blob/main/art/highlights/mrfunnyface-rescaled.png)
 ![scarecrowcharacter](https://github.com/pimfast/My-Art/blob/main/art/highlights/scarecrowcharacter-rescaled.png)
+
+More can be found in the [art folder](https://github.com/pimfast/My-Art/tree/main/art) above
